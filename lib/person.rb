@@ -1,8 +1,8 @@
-class Person 
+class Person
   def talk 
- puts "Greeting" 
-  end   
-  
+ puts "Greeting"
+  end
+
  end
 
 adele_goldberg = Person.new
