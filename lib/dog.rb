@@ -1,7 +1,12 @@
 class Dog
-  def greet
+  def Bark
  puts "Whoof"
- end 
+ end
+
+ def Sit
+puts "The Dog is sitting"
+end
+
  end
 
 pug = Dog.new
