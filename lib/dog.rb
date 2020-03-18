@@ -1,5 +1,7 @@
 class Dog
- puts "greetings"
+  def greet
+ puts "Whoof"
+ end 
  end
 
 pug = Dog.new
